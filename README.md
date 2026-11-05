@@ -74,4 +74,4 @@ pythonw overlay_ruler.pyw
 
 ## ライセンス
 
-MIT Lisence
+MIT License
