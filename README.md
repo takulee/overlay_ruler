@@ -74,4 +74,4 @@ pythonw overlay_ruler.pyw
 
 ## ライセンス
 
-<!-- お好みのライセンス(MIT など)を記載し、LICENSE ファイルを追加してください -->
+MIT Lisence
