@@ -74,4 +74,5 @@ pythonw overlay_ruler.pyw
 
 ## ライセンス
 
-MIT License
+このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
+
